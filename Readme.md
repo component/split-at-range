@@ -1,6 +1,6 @@
 # split-at-range
 
-Splits an HTMLElement in the location marked by a range.
+Splits an `HTMLElement` in the location marked by a range.
 
 The operation is non-destructive, that is the provided DOM element is not affected. New fragments are returned.
 
