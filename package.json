@@ -1,0 +1,10 @@
+{
+  "name": "split-at-range",
+  "description": "Splits an HTMLElement in the location marked by a range",
+  "tags": ["range", "split", "html"],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/component/split-at-range.git"
+  }
+}
