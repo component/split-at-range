@@ -1,5 +1,6 @@
 {
   "name": "split-at-range",
+  "version": "0.0.1",
   "description": "Splits an HTMLElement in the location marked by a range",
   "tags": ["range", "split", "html"],
   "dependencies": {},
