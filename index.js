@@ -9,7 +9,7 @@
 function splitAtRange(el, range) {
   var left = document.createRange();
   left.selectNode(el);
-  left.setEnd(range.endContainer, range.endOffset);
+  left.setEnd(range.startContainer, range.startOffset);
   var right = document.createRange();
   right.selectNode(el);
   right.setStart(range.startContainer, range.startOffset);
